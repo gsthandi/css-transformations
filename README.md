@@ -1,3 +1,3 @@
-#Praticing CSS3 animations and transformations
+# Praticing CSS3 animations and transformations
 
-###Beginner stuff
+### Beginner stuff
