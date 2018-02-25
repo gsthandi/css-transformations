@@ -1,0 +1,9 @@
+img {
+	margin: 50px;
+}
+
+img:hover {
+    transform: scale(2);
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
